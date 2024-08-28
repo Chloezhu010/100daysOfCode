@@ -4,3 +4,4 @@ Try to document my learning journey on The Complete 2024 Web Developmment Bootca
 | Date          | Notes    |
 | ------------- | --------------- |
 | Aug 27        | [Day 1](https://github.com/Chloezhu010/100daysOfCode_WebDev/blob/main/notes/day1.md) |
+| Aug 28        | [Day 2](https://[github.com/Chloezhu010/100daysOfCode_WebDev/blob/main/notes/day1.md](https://github.com/Chloezhu010/100daysOfCode_WebDev/blob/main/day2/day2.md)) |
