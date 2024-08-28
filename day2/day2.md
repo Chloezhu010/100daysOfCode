@@ -11,5 +11,18 @@
 - Anchor: a, href
 - Image: img, src, alt
 
-
+## Multi-page Websites
+- Computer file paths
+    - ../ (go up one folder)
+    - ./ (current folder)
+- Multipage Websites
+- HTML Boilerplate
+    - <!DOCTYPE html>
+    - <html lang="en">
+    - <head>
+        - <meta charset="UTF-8">
+        - <title>My Website</title>
+    </head>
+    <body>
+    </body>
 
