@@ -26,3 +26,8 @@
     <body>
     </body>
 
+- Web hosting
+    - local dev
+    - Web server
+
+
