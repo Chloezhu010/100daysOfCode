@@ -1,0 +1,20 @@
+# Basic CSS
+- How to add CSS
+    - Inline: to 1 element
+    - Internal: to 1 webpage
+    - External: to multiple pages using xxx.css
+- Selectors
+    - category: like h1, h2, p etc., eg. h1{}
+    - class: can applied to many in an html, eg. .red-text{}
+    - id: only applied to 1 in an html, eg. #main{}
+    - attribute: eg. p[xxx]{}
+    - universal: eg. *{}
+- Color
+    - website: color hunt
+- Box model
+    - border: eg. 30px solid black
+    - border-width: clock wise
+    - padding
+    - margin
+    - content division: group elements
+        - pesticide extension: show division
