@@ -17,17 +17,9 @@
     - ./ (current folder)
 - Multipage Websites
 - HTML Boilerplate
-    - <!DOCTYPE html>
-    - <html lang="en">
-    - <head>
-        - <meta charset="UTF-8">
-        - <title>My Website</title>
-    </head>
-    <body>
-    </body>
-
 - Web hosting
     - local dev
     - Web server
-
+- Capstone projects
+    - personal portfolio
 
