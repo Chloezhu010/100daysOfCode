@@ -11,6 +11,14 @@
     - universal: eg. *{}
 - Color
     - website: color hunt
+- Font properties
+    - font size: px (pixel), pt (point), em (100% of parent), rem (100% of root)
+    - font weight: bold, normal bold, lighter to bolder relative to parent, number 100-900
+    - font family: eg. helvetica, sans-serif; "times new rome", serif
+        - website: fonts.google.com
+    - text align: left/ center/ right, start
+- Inspect CSS
+    - CSS overview
 - Box model
     - border: eg. 30px solid black
     - border-width: clock wise
