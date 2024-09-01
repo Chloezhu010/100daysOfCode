@@ -1,0 +1,21 @@
+# Flexbox
+- display: flex
+- flex direction
+    - flex-direction: eg. row/ column
+    - flex-basis: eg. 100px
+- flex layout
+    - order: default is 0
+    - flex-wrap: default is nowrap
+    - justify-content: horizontal change
+    - align-items: vertical change, need to set height eg. 70vh
+    - align-self
+    - align-content: only works if flex-wrap is wrap
+    - flex-flow: row wrap, column wrap
+    - website: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+- flex sizing
+    - min-wdith/ max-width > flex-basis > width > content width
+    - flex-grow
+    - flex-shrink
+    - flex-basis
+        - eg. flex: 1 1 0, same as flex: 1
+- 
