@@ -14,8 +14,53 @@ h1 {
   font-size: 5rem;
 }
 
+.card{
+  width:45%;
+}
+
+.left{
+  float: left;
+}
+
+.right{
+  float: right;
+}
+
+.tile-image{
+  float: left;
+  height: 200px;
+  margin-right: 20px;
+}
+
+.creative{
+  color:purple
+}
+
+
 footer {
   text-align: right;
   color: midnightblue;
 }
 
+@media (max-width: 680px){
+  .logo{
+    width: 100px;
+  }
+
+  h1{
+    font-size: 3rem;
+  }
+
+  .card{
+    width: 100%;
+    display: block;
+    text-align: justify;
+  }
+
+  .card img{
+    margin-bottom: 10px;
+    width: 100%;
+    display: inline;
+    object-fit: cover;
+  }
+}

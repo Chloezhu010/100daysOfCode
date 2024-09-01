@@ -20,3 +20,21 @@
     - block
     - inline
     - inline-block
+- Float
+    - paragraph around the img
+    - eg. float left
+    - eg. clear left
+- Responsive websites
+    - media queries: eg. @media (max-width: xxx){}
+    - css grid: 2D layout using div, display: div, 
+    - css flexbox: 1D layout
+    - bootstrap framework eg. bootstrap
+- Media queries
+    - min/ max-width
+    - screen/ print
+    - doc: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries
+    - common width
+        - Mobile Devices: 319px — 480px
+        - iPads and Tablets: 481px — 1200px
+        - Laptops: 1201px — 1600px
+        - Desktops: 1601px and more
