@@ -18,4 +18,23 @@
     - flex-shrink
     - flex-basis
         - eg. flex: 1 1 0, same as flex: 1
-- 
+
+# Grid
+- display: grid
+- grid-template-columns: eg. 1fr 2fr; eg. 100px 200 or rem or auto
+- grid-template-rows: eg. 1fr 1fr;
+- grip-template: 100px 200px / 400px 800px
+- gap: eg. 10px
+- grid sizing
+    - fixed size: 100px 200px
+    - auto size: 100px auto
+    - fractional size: 1fr 1fr
+    - minmax size: 100px minmax(400px, 800px)
+    - repeat: repeat (2, 200px)
+        - grip-auto-rows
+- grid placement
+    - lines
+    - tracks
+    - cells
+    - container
+    - items
