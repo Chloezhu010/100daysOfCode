@@ -8,3 +8,4 @@ Try to document my learning journey on The Complete 2024 Web Developmment Bootca
 | Aug 30        | [Day 3](https://github.com/Chloezhu010/100daysOfCode_WebDev/blob/main/day3/day3.md) | Basic CSS |
 | Aug 31        | [Day 4](https://github.com/Chloezhu010/100daysOfCode_WebDev/blob/main/day4/day4.md) | Intermediate & advanced CSS |
 | Sep 1        | [Day 5](https://github.com/Chloezhu010/100daysOfCode_WebDev/blob/main/day5/day5.md) | Flexbox & Grid |
+| Sep 2        | [Day 6](https://github.com/Chloezhu010/100daysOfCode_WebDev/blob/main/day6/day6.md) | Bootstrap |
