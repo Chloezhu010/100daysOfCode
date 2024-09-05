@@ -11,3 +11,4 @@ Try to document my learning journey on The Complete 2024 Web Developmment Bootca
 | Sep 2        | [Day 6](https://github.com/Chloezhu010/100daysOfCode_WebDev/blob/main/day6/day6.md) | Bootstrap |
 | Sep 3        | [Day 7](https://github.com/Chloezhu010/100daysOfCode_WebDev/blob/main/day6/) | Tindog project |
 | Sep 4        | [Day 8](https://github.com/Chloezhu010/100daysOfCode_WebDev/blob/main/day8/day8.md) | Create a website |
+| Sep 5        | [Day 9](https://github.com/Chloezhu010/100daysOfCode_WebDev/blob/main/day9/day9.md) | Basic Javascript |
