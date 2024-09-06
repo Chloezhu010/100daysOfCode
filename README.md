@@ -1,5 +1,6 @@
 # 100daysOfCode_WebDev
-Try to document my learning journey on The Complete 2024 Web Developmment Bootcamp by Dr. Angela Yu ([link](https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=SKILLS4SALE))
+To document my learning journey on coding
+- The Complete 2024 Web Developmment Bootcamp by Dr. Angela Yu ([link](https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=SKILLS4SALE))
 
 | Date          | Notes    | Description    | 
 | ------------- | --------------- | --------------- |
@@ -12,3 +13,4 @@ Try to document my learning journey on The Complete 2024 Web Developmment Bootca
 | Sep 3        | [Day 7](https://github.com/Chloezhu010/100daysOfCode_WebDev/blob/main/day6/) | Tindog project |
 | Sep 4        | [Day 8](https://github.com/Chloezhu010/100daysOfCode_WebDev/blob/main/day8/day8.md) | Create a website |
 | Sep 5        | [Day 9](https://github.com/Chloezhu010/100daysOfCode_WebDev/blob/main/day9/day9.md) | Basic Javascript |
+| Sep 6        | [Day 10](https://github.com/Chloezhu010/100daysOfCode_WebDev/blob/main/day10/day10.md) | Intermediate Javascript, DOM|
