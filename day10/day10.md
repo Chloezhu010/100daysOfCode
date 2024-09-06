@@ -35,7 +35,11 @@
     - classList.add()
     - classList.remove()
     - classList.toggle()
-   
+- attribute
+    - .atrribute()
+    - .setAttribute()
+    - .getAttribute()
+    - .removeAttribute()
         
 
 
