@@ -40,7 +40,13 @@
     - .setAttribute()
     - .getAttribute()
     - .removeAttribute()
-        
+- addEventListener
+    - .addEventListener(type, function)
+- object
+- constructor function
+- methods
+- 
+
 
 
 
