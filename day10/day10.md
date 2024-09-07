@@ -45,7 +45,11 @@
 - object
 - constructor function
 - methods
-- 
+- callback function
+    - function that is passed as an argument to another function
+- setTimeout()
+    - setTimeout(function, milliseconds)
+
 
 
 

@@ -14,3 +14,4 @@ To document my learning journey on coding
 | Sep 4        | [Day 8](https://github.com/Chloezhu010/100daysOfCode_WebDev/blob/main/day8/day8.md) | Create a website |
 | Sep 5        | [Day 9](https://github.com/Chloezhu010/100daysOfCode_WebDev/blob/main/day9/day9.md) | Basic Javascript |
 | Sep 6        | [Day 10](https://github.com/Chloezhu010/100daysOfCode_WebDev/blob/main/day10/day10.md) | Intermediate Javascript, DOM|
+| Sep 7        | [Day 11](https://github.com/Chloezhu010/100daysOfCode_WebDev/blob/main/day11/day11.md) | jQuery|
