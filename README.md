@@ -15,4 +15,4 @@ To document my learning journey on coding
 | Sep 5        | [Day 9](https://github.com/Chloezhu010/100daysOfCode_WebDev/blob/main/day9/day9.md) | Basic Javascript |
 | Sep 6        | [Day 10](https://github.com/Chloezhu010/100daysOfCode_WebDev/blob/main/day10/day10.md) | Intermediate Javascript, DOM|
 | Sep 7        | [Day 11](https://github.com/Chloezhu010/100daysOfCode_WebDev/blob/main/day11/day11.md) | jQuery, intro on backend web dev|
-| Sep 9        | [Day 12](https://github.com/Chloezhu010/100daysOfCode_WebDev/blob/main/day12/day12.md) | Node.js, NPM|
+| Sep 9        | [Day 12](https://github.com/Chloezhu010/100daysOfCode_WebDev/blob/main/day12/day12.md) | Node.js, NPM, qr code,Express|

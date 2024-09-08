@@ -3,9 +3,16 @@
   "version": "1.0.0",
   "description": "learning npm",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "chloe",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^10.2.2",
+    "qr-image": "^3.2.0",
+    "sillyname": "^0.1.0",
+    "superheroes": "^4.0.0"
+  }
 }
