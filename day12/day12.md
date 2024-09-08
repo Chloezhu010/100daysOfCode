@@ -10,11 +10,37 @@
 - express
     - localhost:3000
     - to see if the port is already in use (for mac): sudo lsof -i -P -n | grep LISTEN
+    - npm init -y: initialize a new package.json file
+    - npm install express: install express
+    - node index.js: run the server
+    - nodemon index.js: run the server and automatically restart it when the file is changed
 - http request
     - GET: retrieve data
     - POST: send data
-    - PUT: update data
+    - PUT: update data, replace
+    - PATCH: update data, modify
     - DELETE: delete data
+- postman: a tool to test http requests
+    - status code:
+        - 200: OK
+        - 201: Created
+        - 300: Redirection
+        - 404: Not Found
+        - 500: Internal Server Error
+    - postman.com: website to test http requests
+
 - middleware: functions between request and response
-- 
+    - Functions
+        - preprocess request
+        - login request
+        - authentication
+        - error handling
+    - body parser: parse the body of the request
+        - https://www.npmjs.com/package/body-parser
+        - html login form
+    - logging
+        - https://www.npmjs.com/package/morgan
+    - diy middleware
+        - 
+
 
