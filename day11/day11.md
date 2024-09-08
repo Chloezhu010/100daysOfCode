@@ -37,6 +37,8 @@
     - Hapi
 - most popular framework 2023:
     - https://survey.stackoverflow.co/2023/#most-popular-technologies-webframe-professionals
+- top languages on github 2022:
+    - https://octoverse.github.com/2022/top-programming-languages
 - node.js
     - an asynchronous event-driven JavaScript runtime
     - built on Chrome's V8 JavaScript engine
