@@ -41,6 +41,13 @@
     - logging
         - https://www.npmjs.com/package/morgan
     - diy middleware
-        - 
-
+- secret project
+    - import modules: express, body-parser, path
+    - create app and set up port
+    - create middleware to check if the password is correct
+    - create routes: 
+        - GET /: send form
+        - POST /check: check password
+        - GET /secret: display secret
+    - set up server
 
