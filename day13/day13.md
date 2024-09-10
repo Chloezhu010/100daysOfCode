@@ -7,6 +7,8 @@
     - <%# %>: for comment
     - <%% %>: to show <%>
     - <%- include("header.ejs")%>: js execute and not output
-
-
+- passing data
+    - res.render("index.ejs", {name: "John"})
+    - locals: res.locals.name = "John"
+- partials, layouts
 

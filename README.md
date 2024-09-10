@@ -16,4 +16,5 @@ To document my learning journey on coding
 | Sep 6        | [Day 10](https://github.com/Chloezhu010/100daysOfCode_WebDev/blob/main/day10/day10.md) | Intermediate Javascript, DOM|
 | Sep 7        | [Day 11](https://github.com/Chloezhu010/100daysOfCode_WebDev/blob/main/day11/day11.md) | jQuery, intro on backend web dev|
 | Sep 8        | [Day 12](https://github.com/Chloezhu010/100daysOfCode_WebDev/blob/main/day12/day12.md) | Node.js, NPM, qr code,Express|
-| Sep 9        | [Day 13](https://github.com/Chloezhu010/100daysOfCode_WebDev/blob/main/day12/) | Secret project |
+| Sep 9        | [Day 13](https://github.com/Chloezhu010/100daysOfCode_WebDev/blob/main/day12/) | Secret project, EJS |
+| Sep 10        | [Day 14](https://github.com/Chloezhu010/100daysOfCode_WebDev/blob/main/day14/day14.md) | EJS partials, layouts, data passing |
