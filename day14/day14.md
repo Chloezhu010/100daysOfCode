@@ -1,0 +1,26 @@
+# Git，Github, Version Control
+- 4 areas
+    - working directory
+    - staging area
+    - local repository
+    - remote repository
+- main branch
+- git add
+- git status
+- git commit
+- git push
+- gitignore
+    - touch .gitignore
+    - put the file name that you want to ignore in the .gitignore file
+    - then git add, commit, push
+- branching & merging
+    - git branch name-of-branch
+    - git merge name-of-branch
+- forking, pull requests
+    - fork a repository
+    - clone the repository
+    - git clone URL-of-the-repository
+    - make changes
+    - git add, git commit, git push
+    - make a pull request
+- 
