@@ -8,3 +8,8 @@
     - baseURL/endpoint
     - query parameters: ?key=value&key=value
     - path parameters: /user/123
+
+- JSON
+    - JavaScript Object Notation
+    - every key is a string
+    
