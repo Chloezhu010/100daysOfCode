@@ -12,4 +12,8 @@
 - JSON
     - JavaScript Object Notation
     - every key is a string
-    
+    - serialization: convert data to JSON
+        - jsonData = JSON.stringify(data)
+    - deserialization: convert JSON to data
+    - data = JSON.parse(jsonData)
+    - https://jsonviewer.stack.hu/

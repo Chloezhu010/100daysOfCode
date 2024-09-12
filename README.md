@@ -19,4 +19,4 @@ To document my learning journey on coding
 | Sep 9        | [Day 13](https://github.com/Chloezhu010/100daysOfCode_WebDev/blob/main/day12/) | Secret project, EJS |
 | Sep 10        | [Day 14](https://github.com/Chloezhu010/100daysOfCode_WebDev/blob/main/day13) | EJS partials, layouts, data passing |
 | Sep 11        | [Day 15](https://github.com/Chloezhu010/100daysOfCode_WebDev/blob/main/day14/day14.md/) | Git, Github, Version Control, API intro |
-
+| Sep 12        | [Day 16](https://github.com/Chloezhu010/100daysOfCode_WebDev/blob/main/day15/day15.md/) | JSON|
