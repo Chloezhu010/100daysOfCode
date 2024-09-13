@@ -18,4 +18,12 @@
     - username and password -> token
     - token is sent in header
     - the token can interact with the API
-    
+# REST APIs
+- axios.post("URL", body, config)
+    - request config: https://axios-http.com/docs/req_config
+- put: update data in backend
+- get: get data from backend
+- post: send data to backend
+- patch: update data in backend
+- delete: delete data from backend
+
