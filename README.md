@@ -20,3 +20,4 @@ To document my learning journey on coding
 | Sep 10        | [Day 14](https://github.com/Chloezhu010/100daysOfCode_WebDev/blob/main/day13) | EJS partials, layouts, data passing |
 | Sep 11        | [Day 15](https://github.com/Chloezhu010/100daysOfCode_WebDev/blob/main/day14/day14.md/) | Git, Github, Version Control, API intro |
 | Sep 12        | [Day 16](https://github.com/Chloezhu010/100daysOfCode_WebDev/blob/main/day15/day15.md/) | JSON|
+| Sep 13        | [Day 17](https://github.com/Chloezhu010/100daysOfCode_WebDev/blob/main/day17/day17.md/) | Axios, API auth, REST APIs|
