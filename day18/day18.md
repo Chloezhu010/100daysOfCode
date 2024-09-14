@@ -45,3 +45,15 @@
     - relationship
         - foreign key
         - join
+# PostgreSQL
+- install
+    - postgres server: https://www.postgresql.org/download/
+    - pgadmin: https://www.pgadmin.org/download/
+        - UI to run postgres server
+- node pacage: node-postgres
+    - https://www.npmjs.com/package/node-postgres
+- create table
+    - create table <name of tables> (
+        <name of column> <datatype>,
+        <name of column> <datatype>,
+    )
