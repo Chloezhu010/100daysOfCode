@@ -13,3 +13,35 @@
     - resource-based: each resource is identified by a URI, and operations are performed on the resource
 - JokeAPI: https://jokeapi.dev/
 - Create get, post, put, patch, delete routes
+
+# Database
+- sql: structured query language
+- sql vs nosql DB
+    - sql: relational database, table, row, column
+        - eg. mysql, postgres, sqlite, mssql
+    - nosql: non-relational database, key-value pairs, document, graph, *can change data structure*
+        - eg. mongodb, redis, dynamodb
+    - advantages of nosql
+        - flexible data structure
+        - horizontal scaling
+- sql tutorial
+    - web3school: https://www.w3schools.com/sql/
+    - create, read, update, destroy
+    - create table table_name (
+        colume1 data_type,
+        colume2 data_type,
+        colume3 data_type,
+    )
+    - insert into table_name (colume1, colume2, colume3) values (value1, value2, value3)
+    - select
+        - select * from table_name;
+        - select colume1, colume2 from table_name;
+        - select * from table_name where colume1 = value1;
+    - update
+        - update table_name set colume1 = value1 where colume2 = value2;
+        - alter table table_name add colume_name data_type;
+    - delete
+        - delete from table_name where colume1 = value1;
+    - relationship
+        - foreign key
+        - join
