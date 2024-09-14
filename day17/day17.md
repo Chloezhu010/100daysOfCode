@@ -26,4 +26,6 @@
 - post: send data to backend
 - patch: update data in backend
 - delete: delete data from backend
-
+# Secrets Project
+- Similar to Whisper app
+- apply express, axios module
