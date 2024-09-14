@@ -1,0 +1,15 @@
+# Build own APIs
+- Rapid API: https://rapidapi.com/
+- Current API monetization
+    - data collection: large database
+    - algo/ service: eg. chatgpt
+    - simplified interface: 
+- internal API: 
+- REST API: 
+    - http methods: GET, POST, PUT, PATCH, DELETE
+    - json output
+    - client, server separated: client sends request to server, server sends response
+    - stateless: server does not store client info
+    - resource-based: each resource is identified by a URI, and operations are performed on the resource
+- JokeAPI: https://jokeapi.dev/
+- Create get, post, put, patch, delete routes
