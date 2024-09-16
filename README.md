@@ -21,4 +21,4 @@ To document my learning journey on coding
 | Sep 11        | [Day 15](https://github.com/Chloezhu010/100daysOfCode_WebDev/blob/main/day14/day14.md/) | Git, Github, Version Control, API intro |
 | Sep 12        | [Day 16](https://github.com/Chloezhu010/100daysOfCode_WebDev/blob/main/day15/day15.md/) | JSON|
 | Sep 13        | [Day 17](https://github.com/Chloezhu010/100daysOfCode_WebDev/blob/main/day17/day17.md/) | Axios, API auth, REST APIs|
-| Sep 16        | Day 18 | 42Paris, shell ex00-04|
+| Sep 16        | [Day 18](https://github.com/Chloezhu010/42Paris/tree/main/01_Piscine) | 42 piscine, shell00 ex00-04|
